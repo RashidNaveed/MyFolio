@@ -1,0 +1,22 @@
+[debug] [2021-02-20T18:20:49.240Z] ----------------------------------------------------------------------
+[debug] [2021-02-20T18:20:49.242Z] Command:       /usr/bin/node /home/rashid-ch/.npm-global/bin/firebase init
+[debug] [2021-02-20T18:20:49.243Z] CLI Version:   9.3.0
+[debug] [2021-02-20T18:20:49.243Z] Platform:      linux
+[debug] [2021-02-20T18:20:49.243Z] Node Version:  v10.19.0
+[debug] [2021-02-20T18:20:49.243Z] Time:          Sat Feb 20 2021 23:20:49 GMT+0500 (Pakistan Standard Time)
+[debug] [2021-02-20T18:20:49.243Z] ----------------------------------------------------------------------
+[debug] [2021-02-20T18:20:49.243Z] 
+[debug] [2021-02-20T18:20:49.245Z] >>> [apiv2][query] GET https://firebase-public.firebaseio.com/cli.json [none]
+[debug] [2021-02-20T18:20:49.266Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-20T18:20:49.266Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /home/rashid-ch/Downloads/DevFolio
+
